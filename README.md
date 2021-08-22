@@ -1,5 +1,4 @@
-# B-Filter
-SECURITY
+# SECURITY
 Able to block bad opcodes.
 Able to do maintenance (gm's only can login) .
 Able to block flood .
