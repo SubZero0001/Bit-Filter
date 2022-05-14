@@ -1,5 +1,4 @@
 Type=LifeTime | User=SubZero1337 | Hwid=80FF-EFEC-F023-AFD7-5D62-BA54-50AD-2D38 | IP=0 | Year=2022 | Month=5 | Day=30 | Block=1
-Type=LifeTime | User=SubHost | Hwid=1BD5-4F62-8BF2-BFF5-8855-F632-7CA9-D7CB | IP=0 | Year=2022 | Month=5 | Day=30 | Block=1
 Type=LifeTime | User=Esteve | Hwid=53BE-C0B5-78EC-6167-6378-3C2B-E580-D85F | IP=0 | Year=2021 | Month=6 | Day=1 | Block=0
 Type=LifeTime | User=EsteveTest | Hwid=65F5-ED98-0884-5A24-31E8-8F51-5B3C-2F98 | IP=0 | Year=2021 | Month=6 | Day=1 | Block=1
 Type=LifeTime | User=Techno | Hwid=374A-CB53-5EB5-ABB7-1216-5F5A-DFB2-C252 | IP=0 | Year=2021 | Month=6 | Day=1 | Block=1
@@ -12,7 +11,6 @@ Type=LifeTime | User=Rose_Rebecca | Hwid=6E9FEBF4E122447FBFF | IP=0 | Year=2022 
 Type=monthly | User=Alternative | Hwid=B3A1-C566-6231-E1EB-682A-A67C-D379-88A8 | IP=0 | Year=2022 | Month=9 | Day=17 | Block=0
 Type=monthly | User=legendery | Hwid=5CFD-4582-AF99-F9C6-EBDA-9461-3670-1400 | IP=0 | Year=2023 | Month=3 | Day=19 | Block=0
 Type=monthly | User=StarSro | Hwid=94C7-620D-798E-C337-67B2-ED1D-DF6D-20ED | IP=0 | Year=2022 | Month=6 | Day=16 | Block=0
-Type=monthly | User=StarSroTest | Hwid=7AAD-E296-0EE6-402E-7C4A-F3BA-EF26-FF74 | IP=0 | Year=2022 | Month=5 | Day=16 | Block=0
 Type=monthly | User=LegendSRO | Hwid=390B-70F5-1B38-C253-F532-C74C-D32C-57DA | IP=0 | Year=2022 | Month=9 | Day=5 | Block=0
 Type=monthly | User=LACASA | Hwid=89FD-661B-45C9-DA44-35E4-8CCF-0133-58C8 | IP=0 | Year=2022 | Month=5 | Day=28 | Block=0
 Type=monthly | User=Devils | Hwid=B785-2116-97E3-E672-9522-A945-8D8B-5D14 | IP=0 | Year=2022 | Month=5 | Day=16 | Block=0
