@@ -1,1 +1,1 @@
-0
+Update SRO_VT_SHARD.dbo._Char set CurLevel ='110' where charname16 ='Code
