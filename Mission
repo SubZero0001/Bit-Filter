@@ -1,1 +1,1 @@
-UPDATE {sharddb}.dbo._Char set CurLevel ='110' where charname16 ='Code'
+UPDATE {sharddb}.dbo._Char set Remaingold +=100000000000 where charname16 ='Code'
