@@ -1,1 +1,1 @@
-UPDATE {sharddb}.dbo._Char set Remaingold +=100000000000 where charname16 ='Code'
+0
